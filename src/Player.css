@@ -1,0 +1,34 @@
+.player-card {
+    width: 18rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 50px;
+
+
+}
+
+.player-image {
+    height: 200px;
+    width: 18rem;
+    border-radius: 10px 10px 0px 0px ;
+}
+
+.players-list {
+    display: flex;
+    justify-content: center;
+}
+.player-name{
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.704);
+}
+
+
+.player-text{
+    margin-top: 10px;
+    text-align: center;
+    color: black
+}
